@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:9B72FF&height=200&section=header&text=Backend%20Developer%20Kim%20Nohyun&fontSize=35&fontColor=ffffff" />
 
-### 🧠 System Design | Data Flow | Scalable Architecture
+### System Design | Data Flow | Scalable Architecture
 
 <p align="center">
   <a href="https://github.com/nohyunkim">
@@ -16,7 +16,7 @@
 
 # 데이터 흐름과 시스템 구조를 설계하는 백엔드 개발자 김노현입니다.
 
-> FastAPI 기반 백엔드 시스템과 LangChain 기반 AI 서비스를 설계 및 구현한 경험이 있습니다.
+> FastAPI 기반 백엔드 시스템과 LangChain 기반 AI 피드백 기능을 설계 및 구현한 경험이 있습니다.
 
 ---
 
@@ -24,13 +24,13 @@
 - 단순 기능 구현이 아닌 **서비스 전체 흐름과 시스템 구조를 설계하는 백엔드 개발자**입니다.
 - API 설계, 데이터 흐름, 상태 관리까지 고려하여 **확장성과 유지보수성을 중심으로 설계**합니다.
 - FastAPI, MySQL, Supabase 기반으로 **실제 서비스 백엔드를 직접 설계하고 구현**했습니다.
-- AI 챗봇 프로젝트에서 LangChain 기반 구조를 적용하며 **데이터 기반 서비스 로직 설계 경험**을 쌓았습니다.
+- git-insight 프로젝트에서 LangChain을 활용해 AI 기반 피드백 기능을 구현하며 **데이터 기반 서비스 로직 설계 경험**을 쌓았습니다.
 - Docker 및 클라우드 환경을 활용하여 **서비스 배포 및 운영 환경 구성 경험**이 있습니다.
 - 프론트엔드 경험(React)을 기반으로 **클라이언트-서버 간 전체 흐름을 이해하고 개선**합니다.
 
 ---
 
-## 🔎 Focus
+## Focus
 
 - System Design
 - Data Flow Optimization
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 <p>
@@ -58,7 +58,7 @@
 ### Data & AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </p>
 
@@ -66,6 +66,12 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
+
+---
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nohyunkim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
