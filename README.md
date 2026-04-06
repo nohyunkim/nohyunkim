@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=System+Design;Data+Flow;Scalable+Architecture;Backend+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=>+System+Design;>+Data+Flow;>+Scalable+Architecture;>+Backend+Engineering" />
 
 <br><br>
 
